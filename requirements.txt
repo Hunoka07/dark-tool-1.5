@@ -1,0 +1,5 @@
+rich
+psutil
+requests
+cloudscraper
+scapy
